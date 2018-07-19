@@ -59,6 +59,7 @@ public class MyLoader extends AsyncTaskLoader<List<Movie>> {
                     stringBuilder.append(content);
                 }
                 String data = stringBuilder.toString();
+                inputStream.close();
                 return DataResolver(data);
             }
         } catch (MalformedURLException e) {
