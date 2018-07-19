@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.android/build-cache/100085e4cfa58fe46d0b2cbc63884f6b8f525d09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/classes_c12185992cc06282c0841137e3b8b0188e73294d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc2/51033a5b8fcf7039159e35b6878f106ccd5fb35f/auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/auto-service-1.0-rc2_0533df66c470736973ec5ec78e51276d5a6b3a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.6/cf7212b0f8bfef12657b942df8f4f2cf032d3f41/auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/auto-common-0.6_4b9007ca39912915e5ed0e8ade7ac3c0c01c2f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_186543e6321a386fd72e2ffde3d31b8f568c6d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.6.1/5395a1879f4607c5f27fc8c97b1edcfe01b1316c/javapoet-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5395a1879f4607c5f27fc8c97b1edcfe01b1316c">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/javapoet-1.6.1_9ac469dcf7e96d3a71a5898e65ae652aa7a024f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.3/5a1aef6a9d56efb473b8be6b66689077e7317c45/rxjava-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a1aef6a9d56efb473b8be6b66689077e7317c45">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/rxjava-1.1.3_356b48f9c09d4f298d11d533ee9bbfa525c667dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.android/build-cache/a4127b7008d3da798497edee05c5c90f84004e7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/classes_f373375e1164b54db1b0fbd5e6c862e72cde9349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-compiler/8.0.1/6e3b29589d7e38efd94d2e9505b7b542e8cf9669/butterknife-compiler-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6e3b29589d7e38efd94d2e9505b7b542e8cf9669">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/butterknife-compiler-8.0.1_2b34335dc6a9860a8d58d194065ec5a32461d95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeremychen/.android/build-cache/b61c0c0f4a0b910b78b8a0dd0358f63f40fb5fdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/jeremychen/AndroidStudioProjects/MovieApp/app/build/intermediates/pre-dexed/debug/classes_409ff05c811ae2bb5758f0aeac2d0f183608b073.jar" />
+    </item>
+
+</items>
