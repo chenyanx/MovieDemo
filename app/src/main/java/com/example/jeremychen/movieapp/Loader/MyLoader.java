@@ -42,6 +42,7 @@ public class MyLoader extends AsyncTaskLoader<List<Movie>> {
     @Override
     public List<Movie> loadInBackground() {
         // TODO: 2018/6/21  使用httpURLConnection下载数据
+        InputStream inputStream = null;
         try {
             URL url = new URL(download_url);
             HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
@@ -49,7 +50,7 @@ public class MyLoader extends AsyncTaskLoader<List<Movie>> {
             httpURLConnection.setReadTimeout(60000);
             if(httpURLConnection.getResponseCode() == HttpURLConnection.HTTP_OK)
             {
-                InputStream inputStream = httpURLConnection.getInputStream();
+                inputStream = httpURLConnection.getInputStream();
                 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
 
                 StringBuilder stringBuilder = new StringBuilder();
@@ -66,6 +67,15 @@ public class MyLoader extends AsyncTaskLoader<List<Movie>> {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
+        }finally {
+            if(inputStream != null)
+            {
+                try {
+                    inputStream.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
         }
         return null;
     }
